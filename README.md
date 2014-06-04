@@ -1,3 +1,6 @@
+![alt text](http://docs.rhondaimpey.com/img/skillswheel.jpg "Skills Wheel")
+
+
 Skills-Wheel-HTML5-Canvas
 =========================
 
